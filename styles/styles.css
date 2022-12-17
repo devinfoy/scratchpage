@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: gray;
+    background-color: rgb(201, 238, 238);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+
+}
+a {
+    color: maroon;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: blue;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.justify{text-align: justify;}
+
+
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.box2 {
+    padding: 5px;
+    
+}
+
+.box3 {
+    margin: 50px;
+}
